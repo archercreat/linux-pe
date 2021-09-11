@@ -27,6 +27,7 @@
 //
 #pragma once
 #include <utility>
+#include <string>
 #include "../../img_common.hpp"
 #include "../data_directories.hpp"
 
